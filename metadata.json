@@ -1,0 +1,6 @@
+{
+  "name": "Glamour Hub - Premium Makeup & Fashion",
+  "description": "Discover your perfect look with Glamour Hub. Curated cosmetics and statement fashion pieces designed for elegance, boldness, and unapologetic glamour.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
